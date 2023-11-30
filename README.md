@@ -8,4 +8,14 @@ to commit and modify all files<br/>
 git commit -am "changes made"<br/>
 
 from repo to local : <br/>
-git pull
+git pull<br/>
+<br/>
+find all commits <br/>
+git log
+<br/>
+<br/>
+git reset<br/>
+git reset --hard <commit><br/>
+git reset --hard origin/master<br/><br/>
+
+
