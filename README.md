@@ -6,3 +6,6 @@ git push<br/>
 <br/>
 to commit and modify all files<br/>
 git commit -am "changes made"<br/>
+
+from repo to local : <br/>
+git pull
