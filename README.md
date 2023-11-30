@@ -18,4 +18,8 @@ git reset<br/>
 git reset --hard <commit><br/>
 git reset --hard origin/master<br/><br/>
 
-
+which branch i am working on : git branch <br/>
+to move to other branch which is yet to create name as newbranch : <br/>
+git checkout -b newbranch<br/>
+<br/>
+to change to existing branch : git checkout branchname<br/>
